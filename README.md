@@ -1,4 +1,4 @@
-# Innovaccer_Intern_solution
+# DataScience_Intern_solution
 Problem Solution for “Data Science - Intern” role
 
 ### Well just making the solution Public 
