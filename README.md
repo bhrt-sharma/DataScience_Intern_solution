@@ -1,6 +1,8 @@
 # Innovaccer_Intern_solution
 Problem Solution for “Data Science - Intern” role
 
+### Well just making the solution Public 
+
 - This breast cancer database was obtained from the University of Wisconsin Hospitals, Madison from Dr.
 William H. Wolberg’s office. Each record represents follow-up data for one breast cancer case. These are
 consecutive patients seen by Dr. Wolberg since 1984, and include only those cases exhibiting invasive
